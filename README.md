@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # SkillCraft Task 03 - Bank Marketing Decision Tree Classification
 
 ## Objective
@@ -119,3 +120,6 @@ The Decision Tree achieved approximately 89% overall accuracy, while the evaluat
 =======
 # SCT_DS_Task03
 >>>>>>> 592df4eb8fb41d07b341e9c9f3f4a50ef998dd16
+=======
+# SCT_DS_Task03
+>>>>>>> f51b169d861e9f6d1bcc18fb1c36b981b771ffea
